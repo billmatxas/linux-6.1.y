@@ -92,7 +92,7 @@
 
 	wifi: wifi@1 {
 		reg = <1>;
-		compatible = "realtek,rtl8822cs";
+		compatible = "realtek,rtl88x2cs";
 	};
 };
 
